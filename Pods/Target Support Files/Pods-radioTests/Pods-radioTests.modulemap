@@ -1,0 +1,6 @@
+framework module Pods_radioTests {
+  umbrella header "Pods-radioTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

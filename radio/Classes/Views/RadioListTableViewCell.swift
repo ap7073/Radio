@@ -10,6 +10,10 @@ import UIKit
 
 class RadioListTableViewCell: UITableViewCell {
 
+    @IBOutlet weak var radioImageView: UIImageView!
+    @IBOutlet weak var radioNameLabel: UILabel!
+    @IBOutlet weak var radioTagLabel: UILabel!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

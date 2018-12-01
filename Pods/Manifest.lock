@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.8.0)
+  - FRadioPlayer (0.1.14)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - FRadioPlayer
+  - SDWebImage
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - FRadioPlayer
+    - SDWebImage
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  FRadioPlayer: 75e89984eaa96b235d7cbe29f40170fda5dbea1c
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: c3649444d106be652d67e7575b8d28e0a21f25d3
+
+COCOAPODS: 1.6.0.beta.2

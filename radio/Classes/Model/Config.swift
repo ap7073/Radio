@@ -8,6 +8,21 @@
 
 import UIKit
 
-class Config: NSObject {
 
-}
+//MARK:URL String
+
+let url = "https://www.radio-browser.info/webservice/json/stations/bycountry/india"
+
+//MARK:Cell Identifier
+
+let  radioListTableViewCell = "RadioListTableViewCell"
+
+
+
+
+// MARK: String values
+
+let favicon = "favicon"
+let name = "name"
+let tags = "tags"
+
